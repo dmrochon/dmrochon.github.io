@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "dependencies": {
-    "body-parser": "^1.17.2",
+    "body-parser": "^1.20.3",
     "chai": "~3.5.0",
     "express": "^4.21.1",
     "mocha": "^10.2.0",
